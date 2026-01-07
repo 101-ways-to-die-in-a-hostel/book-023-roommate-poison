@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A travel blogger slowly poisons her dormitory roommate over two weeks, adding small doses of antifreeze to shared food, driven by jealousy over social media success.",
     "long": ""
   },
   "death_type": "Roommate Poison",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "She said the green tea was for detox. She wasn't wrong."
 }
